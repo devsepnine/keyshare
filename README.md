@@ -1,6 +1,6 @@
 # Keyshare Utility
 - - -
-입력 피시에서 다른 피시로 키보드, 마우스 입력을 실시간 공유하는 프로그램입니다.
+입력 PC에서 다른 PC로 키보드, 마우스 입력을 실시간 공유하는 프로그램입니다.
 
 
 ## Installation
@@ -13,12 +13,12 @@
 ## Usage
 - - -
 ```
-입력을 공유 받을 피시에 Getnyang을 설치 후 실행합니다.
+입력을 공유 받을 PC에 Getnyang을 설치 후 실행합니다.
 ```
 ![img.png](assets/img0.png)
 
 ```
-공유를 시작할 피시에서 Sendnyang을 설치 후 실행합니다.
+공유를 시작할 PC에서 Sendnyang을 설치 후 실행합니다.
 ```
 ![img.png](assets/img_2.png)
 
